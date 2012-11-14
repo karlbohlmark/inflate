@@ -1,0 +1,9 @@
+{
+  "name": "inflate",
+  "description": "inflate implementation from zip.js by Gildas Lormeau (ported from JZlib)",
+  "scripts": [
+    "inflate.js"
+  ],
+  "version": "0.0.1",
+  "main": "inflate.js"
+}
